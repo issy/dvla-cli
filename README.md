@@ -1,6 +1,6 @@
 # DVLA Tools
-![Build status](https://img.shields.io/github/workflow/status/issy/dvla-tools/build)
-![Tests status](https://img.shields.io/github/workflow/status/issy/dvla-tools/test?label=tests)
+![Build status](https://img.shields.io/github/workflow/status/issy/dvla-cli/build)
+![Tests status](https://img.shields.io/github/workflow/status/issy/dvla-cli/test?label=tests)
 
 A set of commandline utilities to interact with DVLA vehicle APIs.
 
